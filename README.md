@@ -6,6 +6,8 @@
 
 ## 📦 Installation 
 
+> Please note that you have to own FenixSim A319 model, if you don't please navigate [here](https://fenixsim.com/a319-a321/).
+
 - Download latest version from releases.
 - Extract `.zip` file.
 - Copy `fnx-aircraft-319-custom-liveries` folder into your MSFS community folder.
