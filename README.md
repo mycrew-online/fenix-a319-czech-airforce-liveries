@@ -29,9 +29,9 @@ Under the 24th Transport Air Base at Prague–Kbely, these aircraft serve state-
 
 ## Contributing
 
-_Contributions are welcomed and must follow [Code of Conduct](https://github.com/mrlm-net/logz?tab=coc-ov-file) and common [Contributions guidelines](https://github.com/mrlm-net/.github/blob/main/docs/CONTRIBUTING.md)._
+_Contributions are welcomed and must follow [Code of Conduct](https://github.com/mycrew-online/fenix-a319-czech-airforce-liveries?tab=coc-ov-file) and common [Contributions guidelines](https://github.com/mycrew-online/.github/blob/main/docs/CONTRIBUTING.md)._
 
-> If you'd like to report security issue please follow [security guidelines](https://github.com/mrlm-net/logz?tab=security-ov-file).
+> If you'd like to report security issue please follow [security guidelines](https://github.com/mycrew-online/fenix-a319-czech-airforce-liveries?tab=security-ov-file).
 
 ---
 <sup><sub>_All rights reserved © Martin Hrášek [<@marley-ma>](https://github.com/marley-ma) and WANTED.solutions s.r.o. [<@wanted-solutions>](https://github.com/wanted-solutions)_</sub></sup>
