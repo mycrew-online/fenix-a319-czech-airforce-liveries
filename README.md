@@ -17,7 +17,7 @@ The Czech Air Force operates a pair of Airbus A319CJ (Corporate Jetliner) aircra
 
 ## 📥 Delivery & Fleet Renewal
 
-The first A319CJ (tail number 2801) was delivered on 30 January 2007, ferrying from Airbus in Hamburg to Prague–Kbely, marking a fresh era in VIP transport. The second aircraft arrived in October 2007, bringing the total to two in service. These aircraft replaced older Tupolev Tu‑154M transports, streamlining the fleet for official use.
+The first A319CJ (tail number 2801) was delivered on 30 January 2007, ferrying from Airbus in Hamburg to Prague–Kbely, marking a fresh era in VIP transport. The second aircraft (tail number 3085) arrived in October 2007, bringing the total to two in service. These aircraft replaced older Tupolev Tu‑154M transports, streamlining the fleet for official use.
 
 ## 🎯 About A319CJ and its capabilities
 
