@@ -26,3 +26,12 @@ Designed as short- to medium-range transport jets, the A319CJ accommodates VVIP 
 ## 🌍 Missions & Use Cases
 
 Under the 24th Transport Air Base at Prague–Kbely, these aircraft serve state-priority flights, including presidential and ministerial transport, as well as air ambulance and SAR operations. Regularly used for governmental and state flights, both domestic and international—including fact: President Petr Pavel traveled to New Zealand and Australia aboard tail number 3085 in December 2024. Deployed for evacuation and repatriation missions, such as transporting Czech citizens from conflict zones—most recently from Israel and Gaza in June 2025.
+
+## Contributing
+
+_Contributions are welcomed and must follow [Code of Conduct](https://github.com/mrlm-net/logz?tab=coc-ov-file) and common [Contributions guidelines](https://github.com/mrlm-net/.github/blob/main/docs/CONTRIBUTING.md)._
+
+> If you'd like to report security issue please follow [security guidelines](https://github.com/mrlm-net/logz?tab=security-ov-file).
+
+---
+<sup><sub>_All rights reserved © Martin Hrášek [<@marley-ma>](https://github.com/marley-ma) and WANTED.solutions s.r.o. [<@wanted-solutions>](https://github.com/wanted-solutions)_</sub></sup>
