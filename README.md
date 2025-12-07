@@ -19,7 +19,7 @@ The Czech Air Force operates a pair of Airbus A319CJ (Corporate Jetliner) aircra
 
 The first A319CJ (tail number 2801) was delivered on 30 January 2007, ferrying from Airbus in Hamburg to Prague–Kbely, marking a fresh era in VIP transport. The second aircraft arrived in October 2007, bringing the total to two in service. These aircraft replaced older Tupolev Tu‑154M transports, streamlining the fleet for official use.
 
-## 🎯 Role & Capabilities
+## 🎯 About A319CJ and its capabilities
 
 Designed as short- to medium-range transport jets, the A319CJ accommodates VVIP passengers, such as government officials, heads of state, and other dignitaries. Powered by two CFMI CFM56 engines, the interior layout varies by the customer misson, capable of carrying 10–43 passengers in luxury or up to 124 in standard configuration, with additional fuel tanks significantly extending its range. Under the 24th Transport Air Base at Prague–Kbely, these aircraft serve state-priority flights, including presidential and ministerial transport, as well as air ambulance and SAR operations.
 
